@@ -34,8 +34,13 @@ jobs:
               with: 
                 name: "site"
                 path: "_site/"
+                
+            - name: Check for symlinks
+              run: |
+                echo "Checking for symlinks in _site/"
+                find _site/ -type l
 
             - name: Deploy to GitHub Pages
               uses: actions/deploy-pages@v4
               with:
-                  artifact_name: "site" # Or the name of your deployment folder
+                  artifact_name: "site"
