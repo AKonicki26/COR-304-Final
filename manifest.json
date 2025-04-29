@@ -151,6 +151,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Worcester Satl.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Worcester Satl.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/cyberpunk_bar.jpg",
       "output": {
         "resource": {
