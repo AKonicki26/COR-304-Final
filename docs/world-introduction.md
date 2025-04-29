@@ -1,7 +1,9 @@
 # Worcester Massachusetts, 2077
 
-![Worcester, MA](../images/Worcester Satl.png)
+![Worcester, MA](../images/worcester-satl.png)
+
 Worcester, 2025
+
 ## History
 
 Due to internal corruption and divisiveness within the Northeast territories after a U.S. civilian government control,
